@@ -1,5 +1,6 @@
 
 function reverseString(str) {
+
   var i = 1;
   var string = "";
 
