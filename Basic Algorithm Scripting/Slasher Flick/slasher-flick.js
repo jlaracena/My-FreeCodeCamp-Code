@@ -5,7 +5,7 @@ function slasher(arr, howMany) {
   if(howMany > arr.length){
     arr = [];
   } else {
-   arr = arr.slice(howMany);
+    arr = arr.slice(howMany);
   }
   return arr;
 }
